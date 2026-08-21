@@ -14,7 +14,7 @@ Logging, auditing, and monitoring tables for DBA operations
 
 
 # Schema Design
-The STRAYLIGHT schema contains 60+ tables across 10 subsystems, demonstrating:
+The STRAYLIGHT schema contains 60 tables across 10 subsystems, demonstrating:
 
 Complex relational modeling
 Nullable foreign keys for flexible game modes
