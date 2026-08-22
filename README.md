@@ -1,6 +1,6 @@
 # Straylight-Project
 ### Overview
-This project is designed to showcase real‑world database engineering concepts used in gaming and entertainment companies. Project Straylight models the backend data systems of a modern hero‑shooter RPG, supporting:
+This project is designed to showcase real‑world database engineering concepts used in gaming and entertainment companies. This project models the backend data systems of a modern hero‑shooter RPG, supporting:
 
 Team‑based and free‑for‑all match modes
 Hero abilities, stats, and progression
@@ -14,7 +14,7 @@ Logging, auditing, and monitoring tables for DBA operations
 
 
 # Schema Design
-The STRAYLIGHT schema contains 60 tables across 10 subsystems, demonstrating:
+The STRAYLIGHT schema contains 60 tables across 10 subsystems, all demonstrating:
 
 Complex relational modeling
 Nullable foreign keys for flexible game modes
